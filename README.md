@@ -2,7 +2,7 @@
 =====
 
 Структура:
-* src - исходные файлы
+* src - исходные файлы (для каждого из заданий 1-5 отдельный файл, все последующие выполнены в рамках мини-проекта)
 * answers.md - ответы на вопросы
-* package.json, package-lock.json, tsconfig.json - файлы конфигурации
-* .gitignore - определяет, что не будет включено в рпеозиторий
+* package.json, package-lock.json, tsconfig.json, .prettierrc.json, enslint.config.mjs - файлы конфигурации
+* .gitignore - определяет, что не будет включено в репозиторий

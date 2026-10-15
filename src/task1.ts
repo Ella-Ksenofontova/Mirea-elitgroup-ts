@@ -3,8 +3,7 @@ function greet(name: string): string {
 }
 
 /* 
-    greet(42);
-
+console.log(greet(42));
     Будет ошибка из-за того, что тип значения 42 - number, а функция ожидает значение string. 
 
     Возможное решение - greet("42");
