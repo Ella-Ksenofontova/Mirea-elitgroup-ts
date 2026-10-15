@@ -1,0 +1,22 @@
+{
+  "name": "lessons",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx src/task5.ts",
+    "typecheck": "tsc --noEmit",
+    "build": "tsc",
+    "start":"node dist/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "tsx": "^4.23.15",
+    "typescript": "^6.0.3"
+  }
+}
